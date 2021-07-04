@@ -1,5 +1,13 @@
 # Gama Academy :)
+
+
+
+
+## --------
+
 ## Template Node FullJS
+
+## Informações originais [abaixo]
 
 Para iniciar o projeto:
 `git clone https://github.com/mrdouglasmorais/template-node-fulljs`
