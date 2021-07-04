@@ -1,4 +1,4 @@
-Boas práticas com CSS
+Boas práticas com CSSOn smaller brochure sites, how you organize your styles isn’t usually a big concern. You get in there, write some CSS, or maybe even some SASS. You compile it all into a single stylesheet with SASS’s production settings, and then you aggregate it to get all the stylesheets from modules into a nice tidy package.
 http://getbem.com/introduction/
 
 Template Figma
