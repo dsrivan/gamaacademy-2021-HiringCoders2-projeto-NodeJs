@@ -28,14 +28,16 @@
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
-  height: 120vh;
   display: flex;
+  height: 100vh;
 
   & .block-section--two {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    height: 100%;
+    height: 100vh;
+    min-height: 100vh;
+    max-height: 100vh;
 
     & .image-text {
       display: flex;
@@ -53,7 +55,25 @@
     }
 
     & .footer {
-      margin-top: 40px;
+      margin-top: 50px;
+
+      & a {
+        position: relative;
+        display: inline-block;
+
+        &::after {
+          position: absolute;
+          content: "voltar ao topo";
+          bottom: 80px;
+          left: 30px;
+          background-color: rgba(0, 0, 0, 0.6);
+          color: #fff;
+          text-align: center;
+          padding: 10px;
+          border-radius: 4px;
+          font-size: 14px;
+        }
+      }
     }
   }
 }

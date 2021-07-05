@@ -12,6 +12,8 @@ const imgDarthVader = {
     src: darthVader,
     alt: "Imagem Darth Vader",
     title: "Imagem Darth Vader",
+    width: "320px",
+    height: "auto",
 }
 
 let HomeSectionTwo = `
@@ -23,6 +25,8 @@ let HomeSectionTwo = `
                         src="${imgDarthVader.src}"
                         alt="${imgDarthVader.alt}"
                         title="${imgDarthVader.title}"
+                        width="${imgDarthVader.width}"
+                        height="${imgDarthVader.height}"
                     />
                     <div class="text-section--two">
                         <p>${TextContent}</p>
