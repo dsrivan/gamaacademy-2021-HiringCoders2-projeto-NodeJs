@@ -10,15 +10,17 @@ const logo = {
 }
 
 let HomeSectionOne = `
-    <section class="section background--img" style="background-image: url(${backgroundOne})">
-        <h1>CLIQUE NO BABY YODA, ELE TE MOSTRARÁ O CAMINHO</h1>
-        <img 
-            src="${logo.src}" 
-            alt="${logo.alt}" 
-            title="${logo.title}" 
-            width="${logo.width}"
-            height="${logo.height}"
-        />
+    <section id="homeSectionOne" class="section background--one" style="background-image: url(${backgroundOne})">
+        <div class="container block-section--one">
+            <h1>CLIQUE NO BABY YODA, ELE TE MOSTRARÁ O CAMINHO</h1>
+            <img 
+                src="${logo.src}" 
+                alt="${logo.alt}" 
+                title="${logo.title}" 
+                width="${logo.width}"
+                height="${logo.height}"
+            />
+        </div>
     </section>
 `;
 

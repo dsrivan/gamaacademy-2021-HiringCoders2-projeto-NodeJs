@@ -10,13 +10,15 @@ const yodaBaby = {
 
 let floatImage = `
     <div class="main-left">
-        <img 
-            src="${yodaBaby.src}" 
-            alt="${yodaBaby.alt}" 
-            title="${yodaBaby.title}" 
-            width="${yodaBaby.width}"
-            height="${yodaBaby.height}"
-        />
+        <a href="#homeSectionTwo">
+            <img 
+                src="${yodaBaby.src}" 
+                alt="${yodaBaby.alt}" 
+                title="${yodaBaby.title}" 
+                width="${yodaBaby.width}"
+                height="${yodaBaby.height}"
+            />
+        </a>
     </div>
 `;
 

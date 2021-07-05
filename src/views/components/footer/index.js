@@ -9,18 +9,20 @@ const imgPlanet = {
 }
 
 let footer = `
-    <div>
+    <div class="container footer-contain">
         <p>
             Star wars  -  este é um exemplo criado para os Alunos Gama Academy
             Módulo de boas práticas.
         </p>
-        <img 
-            src="${imgPlanet.src}"
-            alt="${imgPlanet.alt}"
-            title="${imgPlanet.title}"
-            width="${imgPlanet.width}"
-            height="${imgPlanet.height}"
-        />
+        <a href="#homeSectionOne">
+            <img 
+                src="${imgPlanet.src}"
+                alt="${imgPlanet.alt}"
+                title="${imgPlanet.title}"
+                width="${imgPlanet.width}"
+                height="${imgPlanet.height}"
+            />
+        </a>
     </div>
 `;
 
