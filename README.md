@@ -6,6 +6,16 @@ Projeto desenvolvido durante treinamento 'Hiring Coders #2' da 'Gama Academy'
 
 Clique [aqui](https://gamaacademy-2021-hiring-coders2-projeto-node-js.vercel.app/) para visualizar online
 
+#### `Demo: 'Desktop Version' `
+
+> _Desktop Version Demonstration_ !
+> [Demo: 'DesktopVersion'](src/assets/images/demo/DesktopVersion.gif)
+
+#### `Demo: 'Mobile Version' `
+
+> _Mobile Version Demonstration_ !
+> [Demo: 'MobileVersion'](src/assets/images/demo/MobileVersion.gif)
+
 ### --------
 
 ## Template Node FullJS
