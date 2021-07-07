@@ -8,13 +8,12 @@ Clique [aqui](https://gamaacademy-2021-hiring-coders2-projeto-node-js.vercel.app
 
 #### `Demo: 'Desktop Version' `
 
-> _Desktop Version Demonstration_ !
-> [Demo: 'DesktopVersion'](src/assets/images/demo/DesktopVersion.gif)
+> _Desktop Version Demonstration_
+> ![Demo: 'DesktopVersion'](src/assets/images/demo/DesktopVersion.gif)
 
 #### `Demo: 'Mobile Version' `
 
-> _Mobile Version Demonstration_ !
-> [Demo: 'MobileVersion'](src/assets/images/demo/MobileVersion.gif)
+> _Mobile Version Demonstration_ > ![Demo: 'MobileVersion'](src/assets/images/demo/MobileVersion.gif)
 
 ### --------
 
