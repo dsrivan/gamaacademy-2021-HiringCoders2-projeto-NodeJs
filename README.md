@@ -1,9 +1,12 @@
 # Gama Academy :)
 
+## Sobre
 
+Projeto desenvolvido durante treinamento 'Hiring Coders #2' da 'Gama Academy'
 
+Clique [aqui](https://gamaacademy-2021-hiring-coders2-projeto-node-js.vercel.app/) para visualizar online
 
-## --------
+### --------
 
 ## Template Node FullJS
 
@@ -18,7 +21,7 @@ Para instalar as dependências:
 Para iniciar em modo de desenvolvimento:
 `npm start`
 
-## Aconselhado ter instalado NODEJS versão 14.x em diante.
+### Aconselhado ter instalado NODEJS versão 14.x em diante.
 
 Para instalar o node [clique aqui](https://nodejs.org/en/)
 
