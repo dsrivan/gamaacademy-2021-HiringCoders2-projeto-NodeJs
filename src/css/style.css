@@ -11,7 +11,6 @@ html {
 body {
   background: #000;
   color: #fff;
-  overflow: hidden;
 }
 
 h1,
@@ -76,9 +75,7 @@ h4 {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  height: 100vh;
   min-height: 100vh;
-  max-height: 100vh;
 }
 .background--two .block-section--two .image-text {
   display: flex;
@@ -94,21 +91,48 @@ h4 {
 .background--two .block-section--two .footer {
   margin-top: 50px;
 }
-.background--two .block-section--two .footer a {
-  position: relative;
-  display: inline-block;
-}
-.background--two .block-section--two .footer a::after {
-  position: absolute;
-  content: "voltar ao topo";
-  bottom: 80px;
-  left: 30px;
-  background-color: rgba(0, 0, 0, 0.6);
-  color: #fff;
-  text-align: center;
-  padding: 10px;
-  border-radius: 4px;
-  font-size: 14px;
+
+@media (max-width: 999px) {
+  .main-left a img {
+    width: 50px;
+  }
+
+  .background--one .block-section--one h1 {
+    font-size: 18px;
+  }
+  .background--one .block-section--one img {
+    width: 200px;
+  }
+
+  .background--two {
+    height: auto;
+  }
+  .background--two img {
+    width: 50%;
+  }
+  .background--two .block-section--two .image-text {
+    flex-direction: column;
+  }
+  .background--two .block-section--two .image-text img {
+    margin: 30px 0;
+  }
+  .background--two .block-section--two .image-text .text-section--two p {
+    padding: 20px;
+    font-size: 14px;
+  }
+  .background--two .block-section--two .footer {
+    margin-bottom: 30px;
+  }
+  .background--two .block-section--two .footer .footer-contain {
+    flex-direction: column-reverse;
+    text-align: center;
+  }
+  .background--two .block-section--two .footer .footer-contain p {
+    font-size: 14px;
+  }
+  .background--two .block-section--two .footer .footer-contain img {
+    width: 30%;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */
