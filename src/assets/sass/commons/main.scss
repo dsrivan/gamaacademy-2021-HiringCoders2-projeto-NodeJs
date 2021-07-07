@@ -37,10 +37,14 @@ h4 {
   position: fixed;
   left: 10px;
   bottom: 10px;
+  animation: float 5s ease-in-out infinite;
 }
 
 .footer-contain {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  & img {
+    animation: float 6s ease-in-out infinite;
+  }
 }

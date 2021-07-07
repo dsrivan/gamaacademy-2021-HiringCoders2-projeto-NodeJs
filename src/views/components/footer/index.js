@@ -11,7 +11,10 @@ const imgPlanet = {
 let footer = `
     <div class="container footer-contain">
         <p>
-            Star wars  -  este é um exemplo criado para os Alunos Gama Academy
+            Star wars
+            <br />
+            Este é um exemplo criado para os Alunos Gama Academy
+            <br />
             Módulo de boas práticas.
         </p>
         <a href="#homeSectionOne">
