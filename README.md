@@ -4,12 +4,11 @@
 
 Projeto desenvolvido durante treinamento 'Hiring Coders #2' da 'Gama Academy'
 
-Clique [aqui](https://gamaacademy-2021-hiring-coders2-projeto-node-js.vercel.app/) para visualizar online
+Clique [aqui](https://gamaacademy-2021-hiring-coders2-projeto-node-js.vercel.app/ "(target | _blank)") para visualizar online
 
 #### `Demo: 'Desktop Version' `
 
-> _Desktop Version Demonstration_
-> ![Demo: 'DesktopVersion'](src/assets/images/demo/DesktopVersion.gif)
+> _Desktop Version Demonstration_ > ![Demo: 'DesktopVersion'](src/assets/images/demo/DesktopVersion.gif)
 
 #### `Demo: 'Mobile Version' `
 
